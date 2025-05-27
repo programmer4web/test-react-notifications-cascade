@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/programmer4web/react-notifications-cascade/static/css/main.e6c13ad2.css",
+    "main.js": "/programmer4web/react-notifications-cascade/static/js/main.3a119356.js",
+    "static/js/453.f256923d.chunk.js": "/programmer4web/react-notifications-cascade/static/js/453.f256923d.chunk.js",
+    "index.html": "/programmer4web/react-notifications-cascade/index.html",
+    "main.e6c13ad2.css.map": "/programmer4web/react-notifications-cascade/static/css/main.e6c13ad2.css.map",
+    "main.3a119356.js.map": "/programmer4web/react-notifications-cascade/static/js/main.3a119356.js.map",
+    "453.f256923d.chunk.js.map": "/programmer4web/react-notifications-cascade/static/js/453.f256923d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3a119356.js"
+  ]
+}
