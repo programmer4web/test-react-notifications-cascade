@@ -1,6 +1,6 @@
 # Description
 
-This is the Demo project for react-notifications-cascade
+This is the Demo project for [react-notifications-cascade](https://github.com/programmer4web/react-notifications-cascade.git)
 
 # Getting Started with Create React App
 
